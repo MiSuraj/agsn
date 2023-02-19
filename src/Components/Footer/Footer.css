@@ -1,0 +1,33 @@
+.footerHeader{
+    color:var(--dltx);
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  
+    
+}
+.parent{
+  display: flex;
+  border-top: 3px solid red;
+  
+
+
+}
+.child1{
+  width:100%;
+  height:300px;
+  background:green;
+}
+.child2{
+    width:100%;
+    height:300px;
+    background: blue;
+    
+
+}
+.child3{
+    width:100%;
+    height:300px;
+    background: yellow;
+
+}

@@ -1,0 +1,56 @@
+.par{
+    position: relative;
+ 
+}
+.center{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    background: transparent;
+
+
+}
+
+.i-name>:nth-child(1){
+    color:white;
+    font-weight: bold;
+    font-size: 3rem;
+    background: transparent;
+    
+}
+.i-name>:nth-child(2){
+    color:var(--red);
+    font-weight:bold;
+    font-size: 3rem;
+    background: transparent;
+    
+}
+
+.i-name>:nth-child(3){
+    color:var(--gray);
+    font-weight:100;
+    font-size: 14px;
+    margin-top: 10px;
+    background: transparent;
+    
+}
+
+.hpar{
+    display: none;
+}
+.hleft{
+   width:100%;
+   height: 50px;
+   background: green;
+}
+.hright{
+    width: 100%;
+    height:50px;
+    background: red;
+}
+.image{
+ 
+}
+ 
